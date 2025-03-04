@@ -13,7 +13,7 @@ A React application for tracking student attendance with Firebase integration.
 
 ## Live Demo
 
-The application is deployed at: [https://admirable-cassata-108b81.netlify.app/](https://admirable-cassata-108b81.netlify.app/)
+The application is deployed at: [[https://attendance-tracker-gvpcse01.netlify.app/]]
 
 ## Tech Stack
 
